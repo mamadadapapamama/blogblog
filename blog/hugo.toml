@@ -1,0 +1,9 @@
+baseURL = 'https://mamadadapapamama.github.io/Bootleg'
+languageCode = 'en'
+title = 'Just Vibing & Trying'
+theme = 'PaperMod'
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true

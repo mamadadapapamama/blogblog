@@ -1,0 +1,12 @@
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 옵시디언 개인 작업 공간
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 기타 개인 폴더들 (필요하면 추가)
+per_LingoWith Log/
+per_Pikabooks making/
